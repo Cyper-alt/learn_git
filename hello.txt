@@ -1,12 +1,17 @@
 hello
 
 
+<<<<<<< HEAD
 
 hello2
 
 hello3
 
 
+=======
+ddd
+>>>>>>> 3977412bb90798dae92d3d5b3b4f00f52097ba1f
 
 hello learn branch
 
+geee
